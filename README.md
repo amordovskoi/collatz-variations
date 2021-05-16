@@ -1,1 +1,1 @@
-# modern-django
+collatz function variation test
